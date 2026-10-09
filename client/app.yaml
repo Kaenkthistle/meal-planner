@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+owner: kaenkthistle
+name: cookbook-app
+package: .
+app_id: da_R4qIGtmU91my
+debug: true
